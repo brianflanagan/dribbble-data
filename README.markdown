@@ -8,6 +8,8 @@ I've pulled down every upload as-far-as-I-can-tell from the site's very first th
 
 The meta-data I've scraped includes: `dribbble_shot_id`, `created_on`, `title`, `tags`, `likes_count`, `views_count`, `comments_count`.
 
+The URL for any Dribbble upload can be created by appending the `dribbble_shot_id` to `http://dribbble.com/shots/` (i.e. `http://dribbble.com/shots/[dribbble_shot_id]`).
+
 ## Contribute
 
 I've made a [brief and incomplete attempt to analyse this data](http://www.henryandclover.com/2013/10/02/some-design-trend-data/), but I'm no statistician or big-data-cruncher, so I'd appreciate it others had a go.
