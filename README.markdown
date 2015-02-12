@@ -12,4 +12,4 @@ The URL for any Dribbble upload can be created by appending the `dribbble_shot_i
 
 ## Contribute
 
-I've made a [brief and incomplete attempt to analyse this data](http://www.henryandclover.com/2013/10/02/some-design-trend-data/), but I'm no statistician or big-data-cruncher, so I'd appreciate it others had a go.
+I've made a [brief and incomplete attempt to analyse this data](http://www.henryandclover.com/2013/10/02/some-design-trend-data/), but I'm no statistician or big-data-cruncher, so I'd appreciate it if others had a go.
